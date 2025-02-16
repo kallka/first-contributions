@@ -210,6 +210,7 @@
 - [Nayaab Chogle] (https://github.com/NayaabC)
 - [Ryan S](https://github.com/RSkuma)
 - [Sarthak Gupta](https://github.com/Sart-Hack)
+- [Karina Kallas](https://github.com/kallka)  
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Mark Howard](https://github.com/MarkJamesHoward)
 - [James Howard](https://githhub.com/MarkJamesHoward)
